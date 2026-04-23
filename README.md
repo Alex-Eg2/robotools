@@ -2,8 +2,9 @@
 
 A small Python package with basic robotics and engineering utility functions.
 
-## Functions
+## Installation
 
-- deg_to_rad(degrees)
-- rpm_to_rad_s(rpm)
-- vector_magnitude(*components)
+Install directly from GitHub:
+
+```bash
+pip install git+https://github.com/Alex-Eg2/robotools.git
