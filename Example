@@ -1,5 +1,0 @@
-import robotools
-
-print(robotools.deg_to_rad(180))
-print(robotools.rpm_to_rad_s(60))
-print(robotools.vector_magnitude(3, 4))
